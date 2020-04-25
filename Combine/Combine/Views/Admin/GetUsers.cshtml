@@ -1,0 +1,108 @@
+﻿@model System.Collections.Generic.List<DataManagement.Models.UserModel>
+
+@{
+    ViewBag.Title = "GetUsers";
+}
+
+<h2>GetUsers</h2>
+
+<div>
+  
+    <h4>UserModel</h4>
+    <hr />
+    @foreach(var item in Model)
+    <dl class="dl-horizontal">
+    {    <dt>
+            @item.username
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(item => item.)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dob)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dob)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lastloggedin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastloggedin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.lastPassChange)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.lastPassChange)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.usertype)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.usertype)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isVerified)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isVerified)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.profilePic)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.profilePic)
+        </dd>
+     }
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.username }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

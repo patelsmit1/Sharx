@@ -1,0 +1,172 @@
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\csc.exe
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\System.Collections.Immutable.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\System.Reflection.Metadata.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\vbc.exe
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\VBCSCompiler.exe
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\roslyn\VBCSCompiler.exe.config
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\DataManagement.dll.config
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\DataManagement.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\DataManagement.pdb
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Antlr3.Runtime.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\EntityFramework.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\EntityFramework.SqlServer.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Core.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Cookies.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Facebook.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Google.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.OAuth.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Twitter.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Web.Infrastructure.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Newtonsoft.Json.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Owin.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Net.Http.Formatting.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Helpers.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Http.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Http.Owin.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Http.WebHost.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Mvc.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Optimization.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Razor.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.WebPages.Deployment.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.WebPages.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.WebPages.Razor.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\WebGrease.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Newtonsoft.Json.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Net.Http.Formatting.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Helpers.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Http.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Http.WebHost.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Mvc.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Optimization.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Razor.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.WebPages.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.WebPages.Deployment.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.WebPages.Razor.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Antlr3.Runtime.pdb
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\EntityFramework.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\EntityFramework.SqlServer.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Core.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Facebook.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Cookies.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.OAuth.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Google.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Twitter.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Http.Owin.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.csprojResolveAssemblyReference.cache
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.pdb
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.init.resources
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.csproj.GenerateResource.Cache
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.init1.resources
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.init2.resources
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.init3.resources
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Cors.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\System.Web.Cors.dll
+M:\VS-2015\Projs\DataMgnt\DataManagement\bin\Microsoft.Owin.Cors.xml
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.init4.resources
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.init5.resources
+M:\VS-2015\Projs\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.init6.resources
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\csc.exe
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\vbc.exe
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\VBCSCompiler.exe
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\DataManagement.dll.config
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\DataManagement.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\DataManagement.pdb
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Antlr3.Runtime.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\EntityFramework.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\EntityFramework.SqlServer.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Cors.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Newtonsoft.Json.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Owin.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Net.Http.Formatting.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Cors.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Helpers.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Http.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Http.Owin.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Http.WebHost.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Mvc.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Optimization.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Razor.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.WebPages.Deployment.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.WebPages.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.WebPages.Razor.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\WebGrease.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Cors.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Newtonsoft.Json.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Net.Http.Formatting.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Helpers.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Http.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Http.WebHost.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Mvc.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Optimization.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Razor.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.WebPages.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.WebPages.Deployment.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.WebPages.Razor.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Antlr3.Runtime.pdb
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\EntityFramework.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\EntityFramework.SqlServer.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\bin\System.Web.Http.Owin.xml
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\obj\Debug\DataManagement.csproj.CopyComplete
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\obj\Debug\DataManagement.dll
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\obj\Debug\DataManagement.pdb
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\obj\Debug\DataManagement.csprojAssemblyReference.cache
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.migrate3.resources
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\obj\Debug\DataManagement.csproj.GenerateResource.cache
+D:\Sem 6\SDP Project\proj_and_clientDemo\DataMgnt\DataManagement\obj\Debug\DataManagement.Migrations.migrate4.resources

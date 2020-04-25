@@ -1,0 +1,173 @@
+header{
+	background-color: #000;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.2);
+  font-family: "Poppins", Arial, sans-serif;
+  height: 62px;
+}
+
+
+
+
+/*  [ RESTYLE TAG ]*/
+  
+  * {
+	  margin: 0px;
+	  padding: 0px;
+	  box-sizing: border-box;
+  }
+  
+  body, html {
+	  height: 100%;
+	  font-family: "Poppins", Arial, sans-serif !important;
+  }
+  
+  /*---------------------------------------------*/
+  a {
+	  font-family: "Poppins", Arial, sans-serif;
+	  font-size: 14px;
+	  line-height: 1.8;
+	  color: #666666;
+	  margin: 0px;
+	  transition: all 0.4s;
+	  -webkit-transition: all 0.4s;
+	-o-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+  }
+  
+  a:focus {
+	  outline: none !important;
+  }
+  
+  a:hover {
+	  text-decoration: none;
+	color: #fc00ff;
+	border-color: #fc00ff;
+  }
+  
+  /*---------------------------------------------*/
+  h1,h2,h3,h4,h5,h6 {
+	  margin: 0px;
+  }
+  
+  p {
+	  font-family: "Poppins",Arial, sans-serif;;
+	  font-size: 14px;
+	  line-height: 1.7;
+	  color: #666666;
+	  margin: 0px;
+  }
+  
+  ul, li {
+	  margin: 0px;
+	  list-style-type: none;
+  }
+  
+  
+  /*---------------------------------------------*/
+  input {
+	  outline: none;
+	  border: none;
+  }
+  
+  textarea {
+	outline: none;
+	border: none;
+  }
+  
+  textarea:focus, input:focus {
+	border-color: transparent !important;
+  }
+  
+  input:focus::-webkit-input-placeholder { color:transparent; }
+  input:focus:-moz-placeholder { color:transparent; }
+  input:focus::-moz-placeholder { color:transparent; }
+  input:focus:-ms-input-placeholder { color:transparent; }
+  
+  textarea:focus::-webkit-input-placeholder { color:transparent; }
+  textarea:focus:-moz-placeholder { color:transparent; }
+  textarea:focus::-moz-placeholder { color:transparent; }
+  textarea:focus:-ms-input-placeholder { color:transparent; }
+  
+  input::-webkit-input-placeholder { color: #555555;}
+  input:-moz-placeholder { color: #555555;}
+  input::-moz-placeholder { color: #555555;}
+  input:-ms-input-placeholder { color: #555555;}
+  
+  textarea::-webkit-input-placeholder { color: #555555;}
+  textarea:-moz-placeholder { color: #555555;}
+  textarea::-moz-placeholder { color: #555555;}
+  textarea:-ms-input-placeholder { color: #555555;}
+  
+  label {
+	display: block;
+	margin: 0;
+  }
+  
+  /*---------------------------------------------*/
+  button {
+	  outline: none !important;
+	  border: none;
+    background: transparent;
+    font-family: "Poppins", Arial, sans-serif;
+  }
+  
+  button:hover {
+	  cursor: pointer;
+  }
+  
+  iframe {
+	  border: none !important;
+  }
+  
+  
+  /*//////////////////////////////////////////////////////////////////
+  [ Utility ]*/
+  .txt1 {
+	font-family: Montserrat-SemiBold;
+	font-size: 16px;
+	color: #555555;
+	line-height: 1.5;
+  }
+  
+  .txt2 {
+	font-family: "Poppins",Arial, sans-serif;
+	font-size: 14px;
+	color: #999999;
+	line-height: 1.5;
+  }
+  
+  .bo1 {border-bottom: 1px solid #999999;}
+  
+  /*//////////////////////////////////////////////////////////////////
+  [ login ]*/
+  
+  .limiter {
+	width: 100%;
+  margin: auto;
+  display: grid;
+  justify-content: center;
+  color: #000;
+  }
+
+  #uploads{
+    width:100%;
+    display: grid;
+    justify-content: center;
+  }
+
+  .dropzone{
+    width: 550px;
+    height: 120px;
+    border: 2px dashed #000;
+    line-height: 110px;
+    text-align: center;
+    border-radius: 20px;
+    margin:50px;
+ }
+
+ .dropzone.dragover{
+   border-color: #fff;
+   color: #fff;
+ }
+  
+  

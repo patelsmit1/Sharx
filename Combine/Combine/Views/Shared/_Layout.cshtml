@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/icon-font.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/animate.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/hamburgers.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/animsition.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/select2.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/daterangepicker.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/login/main.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/CardLayout.css">
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="icon" type="image/png" href="~/Content/background/Sharx8.png" />
+    <link rel="stylesheet" type="text/css" href="~/Content/background/util.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/background/style.css">
+    <link rel="stylesheet" href="~/Content/background/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900">
+    <link href="https://unpkg.com/filepond/dist/filepond.css" rel="stylesheet">
+    <link href="~/Content/filepondmanual.css" rel="stylesheet" />
+    <link href="https://unpkg.com/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.min.css" rel="stylesheet" />
+    <link href="~/Content/filepond.min.css" rel="stylesheet" />
+    <link href="https://unpkg.com/filepond-plugin-file-poster/dist/filepond-plugin-file-poster.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+</head>
+<body style="background-image: url('../../Content/background/bg-05.jpg');">
+   
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    <script src="~/Content/background/bootstrap.min.js"></script>
+
+    <script src="~/Content/background/jquery.min.js"></script>
+    <script src="~/Content/background/main.js"></script>
+    <script src="~/Content/background/popper.js"></script>
+    <script src="~/Content/login/jquery-3.2.1.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/login/animsition.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/login/select2.min.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/login/moment.min.js"></script>
+    <script src="~/Content/login/daterangepicker.js"></script>
+    <!--===============================================================================================-->
+    <script src="~/Content/login/countdowntime.js"></script>
+    <!--===============================================================================================-->
+
+    <script>
+        var i = 0;
+        var txt = 'A Resource Sharing Platform.'; /* The text */
+        var speed = 250; /* The speed/duration of the effect in milliseconds */
+
+        function typeWriter() {
+            if (i < txt.length) {
+                document.getElementById("demo").innerHTML += txt.charAt(i);
+                i++;
+                setTimeout(typeWriter, speed);
+            }
+            else {
+                i = 0;
+                document.getElementById("demo").innerHTML = '';
+                typeWriter();
+            }
+        }
+    </script>
+</body>
+</html>

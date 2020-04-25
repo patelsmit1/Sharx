@@ -1,0 +1,31 @@
+﻿
+
+@{
+    ViewBag.Title = "ShowPlan";
+}
+
+<h2>ShowPlan</h2>
+
+<div>
+    <h4>PlanModel</h4>
+     <table class="table table-hover table-dark">
+        <thead>
+            <tr>
+                @foreach (System.Data.DataColumn co in Model.Columns)
+                {
+                    <th>  co.Caption </th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (System.Data.DataRow row in Model.Rows)
+            {
+                <tr>
+                    @foreach (var cell in row.ItemArray)
+                    {
+                        <td>@cell.ToString()</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>

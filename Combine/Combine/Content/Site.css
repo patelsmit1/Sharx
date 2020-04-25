@@ -1,0 +1,55 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+#myUL {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    max-width: 280px;
+}
+
+    #myUL li a {
+        border: 1px solid #ddd;
+        margin-top: -1px; /* Prevent double borders */
+        background-color: #f6f6f6;
+        padding: 12px;
+        text-decoration: none;
+        font-size: 18px;
+        color: black;
+        display: block
+    }
+
+        #myUL li a:hover:not(.header) {
+            background-color: #eee;
+        }
+p.round2 {
+    margin-top: 60px;
+    border-radius: 12px;
+    background-color: lavender;
+    height: 47px;
+    text-align: left;
+    font-size: 23px;
+    font-family: sans-serif;
+    
+}

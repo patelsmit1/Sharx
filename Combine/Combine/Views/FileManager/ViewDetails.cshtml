@@ -1,0 +1,145 @@
+﻿
+@{
+    ViewBag.Title = "ViewDetails";
+    var filename = ViewBag.filename;
+    var l = ViewBag.l;
+    var ext = ViewBag.ext;
+    var showpath = ViewBag.showpath;
+    var dt = ViewBag.dt;
+    var ut = ViewBag.ut;
+    var user = ViewBag.user;
+    var imagepath = "";
+    switch (ext)
+    {
+        case ".pdf":
+            imagepath = "/Content/pdf.png";
+            break;
+        case ".ppt":
+            imagepath = "/Content/ppt.png";
+            break;
+        case ".docx":
+        case ".doc":
+            imagepath = "/Content/word.png";
+            break;
+        case ".zip":
+            imagepath = "/Content/zip.png";
+            break;
+        case ".mp4":
+            imagepath = "/Content/video.png";
+            break;
+        case ".xlsx":
+        case ".xls":
+            imagepath = "/Content/excel.png";
+            break;
+
+        default:
+            imagepath = "/Content/file.png";
+            break;
+
+    }
+}
+<div class="navbar navbar-inverse">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12" style="display:flex">
+
+                <div class="navbar-header">
+                    <button class="navbar-toggle" data-target="#mobile_menu" data-toggle="collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+                    <a href="#" class="navbar-brand">SHARX</a>
+                </div>
+
+                <div class="navbar-collapse collapse" id="mobile_menu">
+                    <ul class="nav navbar-nav" style="display:block">
+                        <li class="active"><a href="#">Home</a></li>
+
+
+                        <li><a href="#">Welcome</a></li>
+                        <li><a href="#">Services</a></li>
+
+                    </ul>
+                    <ul class="nav navbar-nav" style="display:block">
+                        <li>
+                            <form action="" class="navbar-form">
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <input type="search" name="search" id="searchfiles" placeholder="Search Files Here..." class="form-control">
+
+                                        <ul id="myUL" class="list-group-item-info">
+                                        </ul>
+                                    </div>
+                                </div>
+                            </form>
+                        </li>
+                    </ul>
+
+                    <ul class="nav navbar-nav navbar-right" style="display:block">
+                        <li><span class="glyphicon glyphicon-user"></span> @Html.ActionLink(Session["username"].ToString(), "Logout", "User") </li>
+                        <li>
+                            <span class="glyphicon glyphicon-log-in"></span> @Html.ActionLink("Log Out", "Logout", "User") <span class="caret"></span>
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="limiter">
+    <div class="container-login100">
+        <div class="wrap-login100 p-l-30 p-r-30 p-t-20 p-b-20">
+            <form class="login100-form validate-form flex-sb flex-w" action="Login" method="post">
+                <span class="login100-form-title p-b-40">
+
+                    View Details
+                </span>
+                <div id="img-container" style=" width: 100%;height: max-content;display: flex;justify-content: center;">
+                    <div id="img">
+                        <img src="@imagepath">
+                    </div>
+                </div>
+
+                <div class="p-t-25 p-b-9">
+                    <span style="font-size:20px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+                        File Name  -: @filename
+                    </span>
+                </div>
+
+                <div class="p-t-25 p-b-9" style="display:block!important">
+                    <span style="display:block!important;font-size:20px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+                        Length  -: @l  MB
+                    </span>
+                </div>
+
+
+                <div class="p-t-25 p-b-9" style="display:block!important">
+                    <span style="display:block!important;font-size:20px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+                        Extension  -: @ext
+                    </span>
+                </div>
+
+                <div class="p-t-25 p-b-9" style="display:block!important">
+                    <span style="display:block!important;font-size:20px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+                        Last Modified Time  -: @dt
+                    </span>
+                </div>
+                <div class="p-t-25 p-b-9" style="display:block!important">
+                    <span style="display:block!important;font-size:20px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+                        Creation Time -: @ut
+                    </span>
+                </div>
+                <div class="p-t-25 p-b-9" style="display:block!important">
+                    <span style="display:block!important;font-size:20px;font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif">
+                        User  -: @user
+                    </span>
+                </div>
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
